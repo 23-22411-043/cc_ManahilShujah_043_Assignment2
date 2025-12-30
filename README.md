@@ -54,7 +54,7 @@ Terraform modules are used to ensure clean structure, reusability, and scalabili
 
 ## Architecture Overview
 
-![Architecture Diagram](screenshots/architecture_overview.png)
+<img width="431" height="272" alt="assignment_part1_project_structure" src="https://github.com/user-attachments/assets/ab99a3b9-aab6-46d0-afe1-b435611373f7" />
 
 **Architecture Components:**
 - Custom VPC  
