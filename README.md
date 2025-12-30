@@ -72,7 +72,6 @@ Terraform modules are used to ensure clean structure, reusability, and scalabili
 
 The Terraform project is organized using modules for clarity and reusability.
 
-```plaintext
 Assignment2/
 ├── main.tf
 ├── variables.tf
